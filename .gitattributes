@@ -1,5 +1,1 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
-<<<<<<< HEAD
-testmodel.h5 filter=lfs diff=lfs merge=lfs -text
-=======
->>>>>>> 52d5a40 (h5 commit)
