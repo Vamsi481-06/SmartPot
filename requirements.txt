@@ -16,7 +16,6 @@ grpcio==1.54.0
 gunicorn==20.1.0
 h11==0.14.0
 h5py==3.8.0
-heroku==0.1.4
 idna==3.4
 jax==0.4.8
 joblib==1.2.0
@@ -28,8 +27,6 @@ ml-dtypes==0.1.0
 numpy==1.23.5
 oauthlib==3.2.2
 opt-einsum==3.3.0
-packaging==23.1
-pandas==2.0.1
 Pillow==9.5.0
 protobuf==4.22.3
 pyasn1==0.5.0
